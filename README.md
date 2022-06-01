@@ -6,4 +6,4 @@
 
 Auto-color groups based on prefix  
 
-![](C:\Users\SP\ECHOES\compute - D\scripts\os_gh-template.gif)
+![](https://github.com/echoesparis/scripts/blob/main/os_gh-template.gif)
