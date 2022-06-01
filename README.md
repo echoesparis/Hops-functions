@@ -1,2 +1,2 @@
-# script repo
+# grasshopper scripts
 
