@@ -20,7 +20,7 @@ Parametric urban typologies
 
 ## Massing Analytics
 
-Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https://github.com/Art-Ev/ICEtool) 
+Indicators for Bioclimatic Urban Design 
 
 ![](https://github.com/echoesparis/scripts/blob/main/img/ee_massing-analytics.gif)
 
