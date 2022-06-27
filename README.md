@@ -1,8 +1,10 @@
-# grasshopper scripts
+# Grasshopper
 
+## Scripts
 
+Grasshopper definitions
 
-## Grasshopper Template
+### Template
 
 Auto-color groups based on prefix  
 
@@ -10,7 +12,13 @@ Auto-color groups based on prefix
 
 
 
-## Massing Typologies
+## Remote functions
+
+Using the [Hops component](https://developer.rhino3d.com/guides/compute/hops-component/) and running on our servers. 
+
+Get in touch to get your key 
+
+### Massing Typologies
 
 Parametric urban typologies
 
@@ -18,7 +26,7 @@ Parametric urban typologies
 
 
 
-## Massing Analytics
+### Massing Analytics
 
 Indicators for Bioclimatic Urban Design 
 
@@ -26,7 +34,7 @@ Indicators for Bioclimatic Urban Design
 
 
 
-## Surface Temperatures
+### Surface Temperatures
 
 Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https://github.com/Art-Ev/ICEtool) 
 
