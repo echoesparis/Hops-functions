@@ -39,3 +39,9 @@ Indicators for Bioclimatic Urban Design
 Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https://github.com/Art-Ev/ICEtool) 
 
 ![](https://github.com/echoesparis/scripts/blob/main/img/ee_surface%20temperature_example.gif)
+
+### Shading Typologies
+
+Parametric shading strategies 
+
+![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ad_louvers.gif)
