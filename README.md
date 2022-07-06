@@ -44,4 +44,4 @@ Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https:/
 
 Parametric shading strategies 
 
-![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ad_louvers.gif)
+![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ad_shading-T1.gif)
