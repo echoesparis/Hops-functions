@@ -24,15 +24,17 @@ Parametric urban typologies
 
 ![](https://github.com/echoesparis/scripts/blob/main/img/urb_massing-typologies.gif)
 
-
-
 ### Massing Analytics
 
 Indicators for Bioclimatic Urban Design 
 
 ![](https://github.com/echoesparis/scripts/blob/main/img/ee_massing-analytics.gif)
 
+### Procedural Urban Forestry
 
+Parametric placement of trees in urban context 
+
+![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/vm_procedural-forestry_example.gif)
 
 ### Surface Temperatures
 
@@ -45,3 +47,4 @@ Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https:/
 Parametric shading strategies 
 
 ![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ad_shading-T1.gif)
+
