@@ -48,3 +48,8 @@ Parametric shading strategies
 
 ![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ad_shading-T1.gif)
 
+### Silhouette Clustering
+
+K-Means clustering with silhouette coefficients.
+
+![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ds_silhouette clustering)
