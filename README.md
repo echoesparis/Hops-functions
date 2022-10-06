@@ -52,4 +52,4 @@ Parametric shading strategies
 
 K-Means clustering with silhouette coefficients.
 
-![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ds_silhouette-clustering.jpg)
+![](https://github.com/echoesparis/Grasshopper-scripts/blob/main/img/ds_kmeans-silhouette-clustering.jpg)
