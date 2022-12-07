@@ -42,6 +42,12 @@ Computation of surface temperatures, adaptation of [Elioth’s ICE tool](https:/
 
 ![](https://github.com/echoesparis/scripts/blob/main/img/ee_surface%20temperature_example.gif)
 
+### Photovoltaics
+
+Optimize the placement of solar PV systems
+
+![](https://github.com/echoesparis/scripts/blob/main/img/ee_pv.jpg)
+
 ### Shading Typologies
 
 Parametric shading strategies 
