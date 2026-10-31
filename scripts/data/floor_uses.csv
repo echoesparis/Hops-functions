@@ -1,0 +1,9 @@
+level,use,ratio
+0,retail,1.0
+1,lobby,0.8
+2,office,1.0
+3,office,1.0
+4,office,1.0
+5,office,0.9
+6,residential,0.85
+7,residential,0.85
