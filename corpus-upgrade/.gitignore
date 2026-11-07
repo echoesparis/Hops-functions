@@ -1,0 +1,6 @@
+# Written by rhino-graph's make-samples, the viewer's session and the acceptance in Grasshopper: local only
+/audit/
+/session.json
+/after.acceptance.json
+/after.snapshot.zip
+/after.next/

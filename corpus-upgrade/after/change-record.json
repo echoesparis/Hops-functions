@@ -1,0 +1,1172 @@
+{
+ "client": "",
+ "made": "2026-11-07",
+ "definitions": 49,
+ "acceptance": {
+  "accepted": 0,
+  "not_accepted": 0,
+  "not_checked": 47
+ },
+ "done": {
+  "clusters written to the library": 4,
+  "definitions linked to them": 18,
+  "old components upgraded": 6,
+  "definitions with upgraded components": 3,
+  "definitions unchanged, left where they are": 1,
+  "edited copies left for a person": 1,
+  "files re-pointed": 3,
+  "definitions with a file re-pointed": 3,
+  "files not there and not found": 0,
+  "keys moved to the secrets file": 4,
+  "definitions with a key moved": 4,
+  "of which inside a cluster": 1,
+  "keys left in a script or an address": 1,
+  "keys to rotate": 5,
+  "panels and scribbles whose font was swapped": 6,
+  "definitions with a swapped font": 3,
+  "definitions laid out by a model": 3,
+  "objects moved": 24,
+  "groups coloured by role": 147,
+  "definitions with groups coloured": 47,
+  "of which a role given by default, for a model to read": 0,
+  "descriptions written": 4,
+  "cluster files of the library described": 3
+ },
+ "kpis": null,
+ "library": [
+  {
+   "file": "Grid_by_spacing.ghcluster",
+   "name": "Grid by spacing",
+   "definitions": 7,
+   "versions_found": 1
+  },
+  {
+   "file": "Facade_panel.ghcluster",
+   "name": "Facade panel",
+   "definitions": 6,
+   "versions_found": 2
+  },
+  {
+   "file": "Room_areas.ghcluster",
+   "name": "Room areas",
+   "definitions": 4,
+   "versions_found": 1
+  }
+ ],
+ "files": [
+  {
+   "path": "callable/hops-ready.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "findable/no-description_1.gh",
+   "changed": [
+    {
+     "what": "description",
+     "before": "no description, or one not written for it as it is",
+     "after": "a description of what it does"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "findable/no-description_2.gh",
+   "changed": [
+    {
+     "what": "description",
+     "before": "no description, or one not written for it as it is",
+     "after": "a description of what it does"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "findable/no-description_3.gh",
+   "changed": [
+    {
+     "what": "description",
+     "before": "no description, or one not written for it as it is",
+     "after": "a description of what it does"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "findable/no-description_4.gh",
+   "changed": [
+    {
+     "what": "description",
+     "before": "no description, or one not written for it as it is",
+     "after": "a description of what it does"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/canvas-to-lay-out_1.gh",
+   "changed": [
+    {
+     "what": "layout",
+     "before": "6 object(s) where they were",
+     "after": "moved as the layout pass decided"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/canvas-to-lay-out_2.gh",
+   "changed": [
+    {
+     "what": "layout",
+     "before": "9 object(s) where they were",
+     "after": "moved as the layout pass decided"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/canvas-to-lay-out_3.gh",
+   "changed": [
+    {
+     "what": "layout",
+     "before": "9 object(s) where they were",
+     "after": "moved as the layout pass decided"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/groups-one-colour_1.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/groups-one-colour_2.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "legible/groups-one-colour_3.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "library/grid_by_spacing.ghuser",
+   "changed": [],
+   "left": [],
+   "checked": [
+    "Unchanged: delivered as the original is, so there is nothing to compare."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "library/sun_vector.ghcluster",
+   "changed": [],
+   "left": [],
+   "checked": [
+    "Unchanged: delivered as the original is, so there is nothing to compare."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/areas-cluster-pasted_1.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/areas-cluster-pasted_2.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/areas-cluster-pasted_3.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/areas-cluster-pasted_4.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_1.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_2.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_3.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_4.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_5.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/grid-cluster-pasted_6.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/panel-cluster-pasted_1.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/panel-cluster-pasted_2.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/panel-cluster-pasted_3.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/panel-cluster-pasted_4.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/panel-cluster-pasted_edited.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [
+    "Facade panel: same DocumentID, other content (edited since it was copied)"
+   ],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/sun-cluster-referenced_1.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/sun-cluster-referenced_2.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "modular/two-pasted-clusters.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "2 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "readable/old-components_1.gh",
+   "changed": [
+    {
+     "what": "old components",
+     "before": "2 old version(s) of components",
+     "after": "the current versions, with the same inputs, outputs and values"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "readable/old-components_2.gh",
+   "changed": [
+    {
+     "what": "old components",
+     "before": "2 old version(s) of components",
+     "after": "the current versions, with the same inputs, outputs and values"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "readable/old-components_3.gh",
+   "changed": [
+    {
+     "what": "old components",
+     "before": "2 old version(s) of components",
+     "after": "the current versions, with the same inputs, outputs and values"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "safe/key-in-panel_1.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "keys",
+     "before": "1 key(s) typed in clear in a panel",
+     "after": "read from secrets.txt by a Get key cluster, by name"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "safe/key-in-panel_2.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "keys",
+     "before": "1 key(s) typed in clear in a panel",
+     "after": "read from secrets.txt by a Get key cluster, by name"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "safe/key-in-panel_3.gh",
+   "changed": [
+    {
+     "what": "shared cluster",
+     "before": "1 pasted copy(ies) of a cluster other definitions hold too",
+     "after": "a reference to one cluster file of the library"
+    },
+    {
+     "what": "keys",
+     "before": "1 key(s) typed in clear in a panel",
+     "after": "read from secrets.txt by a Get key cluster, by name"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "safe/key-in-pasted-cluster.gh",
+   "changed": [
+    {
+     "what": "keys",
+     "before": "1 key(s) typed in clear in a panel",
+     "after": "read from secrets.txt by a Get key cluster, by name"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "safe/key-in-script.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [
+    "Python 3 Script: a key in a script, left for a person"
+   ],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/lost-file-in-read-file_1.gh",
+   "changed": [
+    {
+     "what": "files read",
+     "before": "1 file(s) read from a path where they are not",
+     "after": "the one file of that name found, by its full path"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 external input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/lost-file-in-read-file_2.gh",
+   "changed": [
+    {
+     "what": "files read",
+     "before": "1 file(s) read from a path where they are not",
+     "after": "the one file of that name found, by its full path"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 external input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/lost-file-in-read-file_3.gh",
+   "changed": [
+    {
+     "what": "files read",
+     "before": "1 file(s) read from a path where they are not",
+     "after": "the one file of that name found, by its full path"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 external input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/missing-font-in-panels_1.gh",
+   "changed": [
+    {
+     "what": "fonts",
+     "before": "2 panel(s) or scribble(s) in Akzidenz-Grotesk Pro",
+     "after": "Courier New (panels), Microsoft Sans Serif (scribbles)"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 2 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/missing-font-in-panels_2.gh",
+   "changed": [
+    {
+     "what": "fonts",
+     "before": "2 panel(s) or scribble(s) in Akzidenz-Grotesk Pro",
+     "after": "Courier New (panels), Microsoft Sans Serif (scribbles)"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 2 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/missing-font-in-panels_3.gh",
+   "changed": [
+    {
+     "what": "fonts",
+     "before": "2 panel(s) or scribble(s) in Akzidenz-Grotesk Pro",
+     "after": "Courier New (panels), Microsoft Sans Serif (scribbles)"
+    },
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 2 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/plugin-retired.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/plugin-superseded.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/python2-script_1.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  },
+  {
+   "path": "sound/python2-script_2.gh",
+   "changed": [
+    {
+     "what": "group colours",
+     "before": "groups in their own colours",
+     "after": "coloured by their role: 1 GH input, 1 function, 1 output"
+    }
+   ],
+   "left": [],
+   "checked": [
+    "The copy reads back with the same objects and wires as the original, but for what changed below."
+   ],
+   "not_checked": [
+    "Not checked in Grasshopper.",
+    "Not run on your inputs, in your Rhino: that acceptance is yours."
+   ],
+   "acceptance": null
+  }
+ ],
+ "left_out": []
+}

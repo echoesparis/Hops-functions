@@ -1,0 +1,8 @@
+# The keys of the synthetic sample are made up (FAKE-KEY-...): they open nothing.
+# Keys found in the definitions: rotate each one where it was issued. No value is written here.
+# NAME	kind	file	object	inside	moved
+WEATHER_API_KEY	panel	safe/key-in-panel_1.gh	Weather API key	-	moved
+WEATHER_API_KEY_2	panel	safe/key-in-panel_2.gh	Weather API key	-	moved
+WEATHER_API_KEY_3	panel	safe/key-in-panel_3.gh	Weather API key	-	moved
+WEATHER_API_KEY_4	panel	safe/key-in-pasted-cluster.gh	Weather API key	Weather query	moved
+SCRIPT	script	safe/key-in-script.gh	Script	-	left

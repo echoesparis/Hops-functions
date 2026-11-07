@@ -1,0 +1,656 @@
+{
+ "source": "a map of files",
+ "out": "after",
+ "dry_run": false,
+ "definitions": 49,
+ "clusters": [
+  {
+   "name": "Grid by spacing",
+   "file": "Grid_by_spacing.ghcluster",
+   "definitions": 7,
+   "states": 1,
+   "kept_from": "modular/grid-cluster-pasted_1.gh"
+  },
+  {
+   "name": "Facade panel",
+   "file": "Facade_panel.ghcluster",
+   "definitions": 6,
+   "states": 2,
+   "kept_from": "modular/panel-cluster-pasted_1.gh"
+  },
+  {
+   "name": "Room areas",
+   "file": "Room_areas.ghcluster",
+   "definitions": 4,
+   "states": 1,
+   "kept_from": "modular/areas-cluster-pasted_1.gh"
+  }
+ ],
+ "map": "../projects.json",
+ "plugins_here": "not judged",
+ "done": {
+  "clusters written to the library": 4,
+  "definitions linked to them": 18,
+  "old components upgraded": 6,
+  "definitions with upgraded components": 3,
+  "definitions unchanged, left where they are": 1,
+  "edited copies left for a person": 1,
+  "files re-pointed": 3,
+  "definitions with a file re-pointed": 3,
+  "files not there and not found": 0,
+  "keys moved to the secrets file": 4,
+  "definitions with a key moved": 4,
+  "of which inside a cluster": 1,
+  "keys left in a script or an address": 1,
+  "keys to rotate": 5,
+  "panels and scribbles whose font was swapped": 6,
+  "definitions with a swapped font": 3,
+  "definitions laid out by a model": 3,
+  "objects moved": 24,
+  "groups coloured by role": 147,
+  "definitions with groups coloured": 47,
+  "of which a role given by default, for a model to read": 0,
+  "descriptions written": 4,
+  "cluster files of the library described": 3
+ },
+ "fonts": {
+  "swap": {
+   "Akzidenz-Grotesk Pro": {
+    "panel": "Courier New",
+    "scribble": "Microsoft Sans Serif"
+   }
+  },
+  "swapped": {
+   "Akzidenz-Grotesk Pro": 6
+  }
+ },
+ "group_roles": {
+  "palette": "template",
+  "catalog": true,
+  "groups": {
+   "output": 50,
+   "GH input": 47,
+   "function": 47,
+   "external input": 3
+  }
+ },
+ "files": {
+  "callable/hops-ready.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "findable/no-description_1.gh": {
+   "what": "described",
+   "left": [],
+   "described": true,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "findable/no-description_2.gh": {
+   "what": "described",
+   "left": [],
+   "described": true,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "findable/no-description_3.gh": {
+   "what": "described",
+   "left": [],
+   "described": true,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "findable/no-description_4.gh": {
+   "what": "described",
+   "left": [],
+   "described": true,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/canvas-to-lay-out_1.gh": {
+   "what": "moved",
+   "left": [],
+   "moved": 6,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/canvas-to-lay-out_2.gh": {
+   "what": "moved",
+   "left": [],
+   "moved": 9,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/canvas-to-lay-out_3.gh": {
+   "what": "moved",
+   "left": [],
+   "moved": 9,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/groups-one-colour_1.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/groups-one-colour_2.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "legible/groups-one-colour_3.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "library/grid_by_spacing.ghuser": {
+   "what": "unchanged",
+   "left": [],
+   "at": "../before/library/grid_by_spacing.ghuser"
+  },
+  "library/sun_vector.ghcluster": {
+   "what": "unchanged",
+   "left": [],
+   "beside": [
+    "modular/sun-cluster-referenced_1.gh",
+    "modular/sun-cluster-referenced_2.gh"
+   ]
+  },
+  "modular/areas-cluster-pasted_1.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/areas-cluster-pasted_2.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/areas-cluster-pasted_3.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/areas-cluster-pasted_4.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_1.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_2.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_3.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_4.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_5.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/grid-cluster-pasted_6.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/panel-cluster-pasted_1.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/panel-cluster-pasted_2.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/panel-cluster-pasted_3.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/panel-cluster-pasted_4.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1
+  },
+  "modular/panel-cluster-pasted_edited.gh": {
+   "what": "coloured",
+   "left": [
+    "Facade panel: same DocumentID, other content (edited since it was copied)"
+   ],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "modular/sun-cluster-referenced_1.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "modular/sun-cluster-referenced_2.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "modular/two-pasted-clusters.gh": {
+   "what": "linked",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 2
+  },
+  "readable/old-components_1.gh": {
+   "what": "upgraded",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "old_components": 2,
+   "touched": {
+    "old_components": [
+     "ee943aee-55e3-5fd0-bd1e-d9db2635d335",
+     "e8c0cf19-be3b-5cfb-9b83-36b212424cb0"
+    ]
+   }
+  },
+  "readable/old-components_2.gh": {
+   "what": "upgraded",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "old_components": 2,
+   "touched": {
+    "old_components": [
+     "bf60f6ca-cbca-5deb-b54a-46094508d6af",
+     "58acfc57-5901-57bb-9b82-35b2f4aed63b"
+    ]
+   }
+  },
+  "readable/old-components_3.gh": {
+   "what": "upgraded",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "old_components": 2,
+   "touched": {
+    "old_components": [
+     "bad38d7b-8029-5cdf-82c0-46e7d575193f",
+     "7b03565c-fc42-52cb-a19f-807b10a5cceb"
+    ]
+   }
+  },
+  "safe/key-in-panel_1.gh": {
+   "what": "keys",
+   "left": [],
+   "keys": 1,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1,
+   "touched": {
+    "keys": [
+     {
+      "key": "49831171-6e55-5f4f-95cf-bbd92392a329",
+      "file": "8bb55d37-8d12-5f9c-a620-fb7005e19863",
+      "cluster": "e9dce06b-5f67-5199-ad0a-1e38ba287143",
+      "fed": [
+       "b72ad531-ea4c-5741-8bf9-802a7d88c106"
+      ]
+     }
+    ]
+   }
+  },
+  "safe/key-in-panel_2.gh": {
+   "what": "keys",
+   "left": [],
+   "keys": 1,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1,
+   "touched": {
+    "keys": [
+     {
+      "key": "81bd5f26-5e91-504b-861f-b266522bb8da",
+      "file": "e96561f0-cf6b-5e44-9043-ac7213f62027",
+      "cluster": "f09f67ce-4bf4-53a8-ae55-24c52c4a3cc0",
+      "fed": [
+       "557e1098-f876-5fd9-9d35-a98ee19cc61a"
+      ]
+     }
+    ]
+   }
+  },
+  "safe/key-in-panel_3.gh": {
+   "what": "keys",
+   "left": [],
+   "keys": 1,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "clusters": 1,
+   "touched": {
+    "keys": [
+     {
+      "key": "94c9f5a6-706c-5e43-8ffd-deb2232c4584",
+      "file": "b1c852dc-f89b-5baa-8a38-2d68380c631a",
+      "cluster": "3c49a0af-bc1f-5e9c-9ac2-7b53dd7da243",
+      "fed": [
+       "ddedfb20-98ac-5a01-9b84-78ba923c5b7c"
+      ]
+     }
+    ]
+   }
+  },
+  "safe/key-in-pasted-cluster.gh": {
+   "what": "keys",
+   "left": [],
+   "keys": 1,
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "touched": {
+    "keys": []
+   }
+  },
+  "safe/key-in-script.gh": {
+   "what": "coloured",
+   "left": [
+    "Python 3 Script: a key in a script, left for a person"
+   ],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "sound/lost-file-in-read-file_1.gh": {
+   "what": "references",
+   "left": [],
+   "references": 1,
+   "group_roles": {
+    "GH input": 1,
+    "external input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "touched": {
+    "references": [
+     "2bdf7c24-251c-5fd7-ba1b-8256031ef211"
+    ]
+   }
+  },
+  "sound/lost-file-in-read-file_2.gh": {
+   "what": "references",
+   "left": [],
+   "references": 1,
+   "group_roles": {
+    "GH input": 1,
+    "external input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "touched": {
+    "references": [
+     "741466b0-af3b-52b3-9ae0-528ffe11ebe6"
+    ]
+   }
+  },
+  "sound/lost-file-in-read-file_3.gh": {
+   "what": "references",
+   "left": [],
+   "references": 1,
+   "group_roles": {
+    "GH input": 1,
+    "external input": 1,
+    "function": 1,
+    "output": 1
+   },
+   "touched": {
+    "references": [
+     "2aa9eb65-2380-5b3b-a852-ae40c31f06cd"
+    ]
+   }
+  },
+  "sound/missing-font-in-panels_1.gh": {
+   "what": "fonts",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 2
+   },
+   "fonts": {
+    "Akzidenz-Grotesk Pro": 2
+   },
+   "touched": {
+    "fonts": [
+     "2c3d0f39-1b1b-576b-8bd4-700534ec04c0",
+     "8580bcc4-8b9d-50c3-b234-a22dcab7dae9"
+    ]
+   }
+  },
+  "sound/missing-font-in-panels_2.gh": {
+   "what": "fonts",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 2
+   },
+   "fonts": {
+    "Akzidenz-Grotesk Pro": 2
+   },
+   "touched": {
+    "fonts": [
+     "a848f2aa-390d-5ee8-8faa-9efc07b81318",
+     "ebbddb98-a694-50d6-9321-5c45049ad612"
+    ]
+   }
+  },
+  "sound/missing-font-in-panels_3.gh": {
+   "what": "fonts",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 2
+   },
+   "fonts": {
+    "Akzidenz-Grotesk Pro": 2
+   },
+   "touched": {
+    "fonts": [
+     "92e1cf41-cd11-5483-adc2-5e58897e00b2",
+     "524d9306-4fed-5b00-995c-1075dca8a977"
+    ]
+   }
+  },
+  "sound/plugin-retired.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "sound/plugin-superseded.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "sound/python2-script_1.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  },
+  "sound/python2-script_2.gh": {
+   "what": "coloured",
+   "left": [],
+   "group_roles": {
+    "GH input": 1,
+    "function": 1,
+    "output": 1
+   }
+  }
+ }
+}
