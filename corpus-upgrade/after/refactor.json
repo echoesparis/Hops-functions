@@ -26,7 +26,7 @@
    "kept_from": "modular/areas-cluster-pasted_1.gh"
   }
  ],
- "map": "../projects.json",
+ "map": "../../../rhino-graph/corpora/_stores/synthetic/projects.json",
  "plugins_here": "not judged",
  "done": {
   "clusters written to the library": 4,

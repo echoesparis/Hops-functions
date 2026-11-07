@@ -19,9 +19,6 @@ after/      the same corpus after the upgrade
   secrets.txt       the keys moved out of the panels (made up)
   keys-to-rotate.txt  every key found, moved or left
   change-record.*   what was changed in each file, and what was left for a person
-_staging/   the two definitions of the sun cluster before it was made a reference
-layout/     the canvas positions the layout pass applied
-projects.json  each definition of before/, by its path
 ```
 
 What the upgrade did: shared clusters made one library, old components upgraded, lost files re-pointed, keys moved to `secrets.txt`, missing fonts swapped, descriptions written, groups coloured by role, heaped canvases laid out. What it left on purpose: the edited copy of a cluster, the key in a script, the Python 2 scripts and the plugins.
