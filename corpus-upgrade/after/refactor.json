@@ -37,7 +37,7 @@
   "edited copies left for a person": 1,
   "files re-pointed": 3,
   "definitions with a file re-pointed": 3,
-  "files not there and not found": 0,
+  "files not there and not found": 3,
   "keys moved to the secrets file": 4,
   "definitions with a key moved": 4,
   "of which inside a cluster": 1,
@@ -423,7 +423,9 @@
   },
   "safe/key-in-panel_1.gh": {
    "what": "keys",
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "keys": 1,
    "group_roles": {
     "GH input": 1,
@@ -431,6 +433,7 @@
     "output": 1
    },
    "clusters": 1,
+   "paths_from_here": 1,
    "touched": {
     "keys": [
      {
@@ -439,14 +442,17 @@
       "cluster": "e9dce06b-5f67-5199-ad0a-1e38ba287143",
       "fed": [
        "b72ad531-ea4c-5741-8bf9-802a7d88c106"
-      ]
+      ],
+      "resolver": "5854eed4-1fb3-5163-b9fd-28e296cc79d4"
      }
     ]
    }
   },
   "safe/key-in-panel_2.gh": {
    "what": "keys",
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "keys": 1,
    "group_roles": {
     "GH input": 1,
@@ -454,6 +460,7 @@
     "output": 1
    },
    "clusters": 1,
+   "paths_from_here": 1,
    "touched": {
     "keys": [
      {
@@ -462,14 +469,17 @@
       "cluster": "f09f67ce-4bf4-53a8-ae55-24c52c4a3cc0",
       "fed": [
        "557e1098-f876-5fd9-9d35-a98ee19cc61a"
-      ]
+      ],
+      "resolver": "e0c15ddc-5ada-53ec-a1a2-857dbcd00fca"
      }
     ]
    }
   },
   "safe/key-in-panel_3.gh": {
    "what": "keys",
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "keys": 1,
    "group_roles": {
     "GH input": 1,
@@ -477,6 +487,7 @@
     "output": 1
    },
    "clusters": 1,
+   "paths_from_here": 1,
    "touched": {
     "keys": [
      {
@@ -485,7 +496,8 @@
       "cluster": "3c49a0af-bc1f-5e9c-9ac2-7b53dd7da243",
       "fed": [
        "ddedfb20-98ac-5a01-9b84-78ba923c5b7c"
-      ]
+      ],
+      "resolver": "f0058d7c-6e9b-51f5-8418-d9c4aefd3394"
      }
     ]
    }
@@ -499,6 +511,7 @@
     "function": 1,
     "output": 1
    },
+   "paths_from_here": 1,
    "touched": {
     "keys": []
    }
@@ -524,9 +537,11 @@
     "function": 1,
     "output": 1
    },
+   "paths_from_here": 1,
    "touched": {
     "references": [
-     "2bdf7c24-251c-5fd7-ba1b-8256031ef211"
+     "2bdf7c24-251c-5fd7-ba1b-8256031ef211",
+     "0383de10-b7b4-5d79-b796-fbc6b3437977"
     ]
    }
   },
@@ -540,9 +555,11 @@
     "function": 1,
     "output": 1
    },
+   "paths_from_here": 1,
    "touched": {
     "references": [
-     "741466b0-af3b-52b3-9ae0-528ffe11ebe6"
+     "741466b0-af3b-52b3-9ae0-528ffe11ebe6",
+     "125af421-e57b-547e-9fa4-24544debd511"
     ]
    }
   },
@@ -556,9 +573,11 @@
     "function": 1,
     "output": 1
    },
+   "paths_from_here": 1,
    "touched": {
     "references": [
-     "2aa9eb65-2380-5b3b-a852-ae40c31f06cd"
+     "2aa9eb65-2380-5b3b-a852-ae40c31f06cd",
+     "f34c5c0f-3a7c-52a2-9fa0-36fbc256a0a5"
     ]
    }
   },

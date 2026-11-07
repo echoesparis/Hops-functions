@@ -26,7 +26,7 @@ projects.json  each definition of before/, by its path
 
 What the upgrade did: shared clusters made one library, old components upgraded, lost files re-pointed, keys moved to `secrets.txt`, missing fonts swapped, descriptions written, groups coloured by role, heaped canvases laid out. What it left on purpose: the edited copy of a cluster, the key in a script, the Python 2 scripts and the plugins.
 
-`after/` names the files it reads relative to itself (`../../before/sound/data/...`, `secrets.txt`), so it names no folder of the machine that made it. Grasshopper reads such a path from Rhino's working folder: set the full path in the File panels to run those definitions.
+`after/` names the files it reads relative to itself (`..\..\before\sound\data\...`, `..\secrets.txt`), so it names no folder of the machine that made it. A small Python 3 Script, "Path from here", follows each of those panels and makes the path absolute from the definition's folder when Grasshopper runs it: the copies run where they are cloned.
 
 Paste the link of this folder into [cc.maiastra.xyz](https://cc.maiastra.xyz) to see its audit, before and after.
 

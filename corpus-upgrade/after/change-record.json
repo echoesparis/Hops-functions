@@ -16,7 +16,7 @@
   "edited copies left for a person": 1,
   "files re-pointed": 3,
   "definitions with a file re-pointed": 3,
-  "files not there and not found": 0,
+  "files not there and not found": 3,
   "keys moved to the secrets file": 4,
   "definitions with a key moved": 4,
   "of which inside a cluster": 1,
@@ -834,7 +834,9 @@
      "after": "coloured by their role: 1 GH input, 1 function, 1 output"
     }
    ],
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "checked": [
     "The copy reads back with the same objects and wires as the original, but for what changed below."
    ],
@@ -863,7 +865,9 @@
      "after": "coloured by their role: 1 GH input, 1 function, 1 output"
     }
    ],
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "checked": [
     "The copy reads back with the same objects and wires as the original, but for what changed below."
    ],
@@ -892,7 +896,9 @@
      "after": "coloured by their role: 1 GH input, 1 function, 1 output"
     }
    ],
-   "left": [],
+   "left": [
+    "Panel: ..\\secrets.txt is not there, no file of that name"
+   ],
    "checked": [
     "The copy reads back with the same objects and wires as the original, but for what changed below."
    ],
